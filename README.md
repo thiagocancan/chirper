@@ -1,3 +1,23 @@
+# 🐦 Chirper - Microblog com Laravel
+
+Chirper é uma aplicação web estilo microblog desenvolvida com Laravel, Blade, Tailwind CSS e DaisyUI. Os usuários podem criar, editar e excluir "chirps" (mensagens curtas), com autenticação, autorização e uma interface responsiva.
+
+Este projeto foi construído como parte do **curso oficial da Laravel** disponível em [Laravel Bootcamp](https://laravel.com/bootcamp), que ensina os fundamentos do framework de forma prática e moderna. Ao final do curso, você terá uma aplicação completa com autenticação, CRUD, validação e interface estilizada.
+
+---
+
+## 🚀 Funcionalidades
+
+- Autenticação de usuários (login, registro)
+- Criação, edição e exclusão de chirps
+- Associação de chirps ao usuário autenticado
+- Autorização via policies (edit/delete apenas pelo autor)
+- Interface moderna com Tailwind CSS + DaisyUI
+- Validação de formulários com feedback direto nos inputs
+- Proteção CSRF e hashing de senhas nativo do Laravel
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
